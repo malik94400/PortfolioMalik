@@ -24,7 +24,7 @@
     transition: all .4s ease;
   }
   ::-webkit-scrollbar-track {
-    background: #101010; 
+    background: #101010;
     border-radius: 4px;
     width: 4px;
   }
